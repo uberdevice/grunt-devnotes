@@ -1,0 +1,22 @@
+{
+  "name": "grunt-devnotes",
+  "version": "0.0.1",
+  "description": "A grunt task that creates a markdown page about your project for you and other developers.",
+  "main": "tasks/devnotes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uberdevice/grunt-devnotes.git"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "author": "John Lovell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uberdevice/grunt-devnotes/issues"
+  },
+  "homepage": "https://github.com/uberdevice/grunt-devnotes#readme"
+}

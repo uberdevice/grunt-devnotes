@@ -9,7 +9,7 @@ module.exports = (grunt) ->
       test: ['<%= nodeunit.tests %>']
 
     clean: tests: ['tmp']
-    nodeunit: tests: ['test/test_*.js']
+    nodeunit: tests: ['tests/test-*.js']
 
     bump: options:
       commitFiles: [ 'package.json', 'CHANGELOG.md' ]

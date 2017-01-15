@@ -1,6 +1,6 @@
 {
   "name": "grunt-devnotes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A grunt task that creates a markdown page about your project for you and other developers.",
   "main": "tasks/devnotes.js",
   "scripts": {

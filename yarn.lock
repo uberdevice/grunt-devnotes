@@ -721,10 +721,6 @@ graceful-fs@^4.1.11, graceful-fs@^4.1.2:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/graceful-readlink/-/graceful-readlink-1.0.1.tgz#4cafad76bc62f02fa039b2f94e9a3dd3a391a725"
 
-grunt-auto-release@^0.0.6:
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/grunt-auto-release/-/grunt-auto-release-0.0.6.tgz#5f50ac232a3183f5405f5682f3c8d81196710296"
-
 grunt-cli@~1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/grunt-cli/-/grunt-cli-1.2.0.tgz#562b119ebb069ddb464ace2845501be97b35b6a8"
